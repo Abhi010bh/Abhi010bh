@@ -33,3 +33,7 @@ I am Abhishek B H, a Computer Science Undergrad (in progress) from Belagavi, Ind
 <a href="https://github.com/Abhi010bh/KSHSWebsite.git">
   KSHS Website: A static frontend website for local school
 </a>
+<br>
+<a href="https://github.com/Abhi010bh/ProjectShuchi.git">
+  Shuchi: Waste Management System (MERN Stack) : in progress
+</a>
