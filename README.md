@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there 👋
 
 <!--
 **Abhi010bh/Abhi010bh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 I am Abhishek B H, a Computer Science Undergrad (in progress) from Belagavi, India.
 
-### Things I code with:
+## Things I code with:
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
@@ -27,7 +27,7 @@ I am Abhishek B H, a Computer Science Undergrad (in progress) from Belagavi, Ind
   
 </p>
 
-### Top Repositories
+## Top Repositories
 <a href="https://github.com/Abhi010bh/Abhi010bh.github.io.git">
   Vanilla FrontEnd: Personal Portfolio project
 </a>
@@ -44,5 +44,5 @@ I am Abhishek B H, a Computer Science Undergrad (in progress) from Belagavi, Ind
   EDA on KSRTC Bus Traffic
 </a>
 
-### Languages 
+## Languages 
 
