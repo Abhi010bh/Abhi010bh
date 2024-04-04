@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 <!--
 **Abhi010bh/Abhi010bh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 I am Abhishek B H, a Computer Science Undergrad (in progress) from Belagavi, India.
 
-## Things I code with:
+### Things I code with:
 
