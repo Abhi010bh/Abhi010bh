@@ -29,6 +29,7 @@ I am Abhishek B H, a Computer Science Undergrad (in progress) from Belagavi, Ind
 <a href="https://github.com/Abhi010bh/Abhi010bh.github.io.git">
   Vanilla FrontEnd: Personal Portfolio project
 </a>
+<br>
 <a href="https://github.com/Abhi010bh/KSHSWebsite.git">
   KSHS Website: A static frontend website for local school
 </a>
