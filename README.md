@@ -44,5 +44,4 @@ I am Abhishek B H, a Computer Science Undergrad (in progress) from Belagavi, Ind
   EDA on KSRTC Bus Traffic
 </a>
 
-## Languages 
 
