@@ -38,4 +38,8 @@ I am Abhishek B H, a Computer Science Undergrad (in progress) from Belagavi, Ind
 <a href="https://github.com/Abhi010bh/ProjectShuchi.git">
   Shuchi: Waste Management System (MERN Stack) : in progress
 </a>
-  <img alt="Nodejs" src="[https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white](https://media.licdn.com/dms/image/D5622AQHicCI7pgQuQg/feedshare-shrink_800/0/1693578695927?e=1715212800&v=beta&t=1iMlK5VTfORWVjRfn_0qwPdfe9HyM27s3RVpoqshbwM)" />
+<br>
+<a href="https://github.com/Abhi010bh/EDAPythonKSRTC.git">
+  EDA on KSRTC Bus Traffic
+</a>
+
