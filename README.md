@@ -26,6 +26,6 @@ I am Abhishek B H, a Computer Science Undergrad (in progress) from Belagavi, Ind
 </p>
 
 #### Top Repositories
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=buefy" />
+<a href="(https://github.com/Abhi010bh/Abhi010bh.github.io.git)">
+  
 </a>
