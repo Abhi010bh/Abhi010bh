@@ -14,4 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am Abhishek B H, a Computer Science Undergrad (in progress) from BElagavi, India.
+I am Abhishek B H, a Computer Science Undergrad (in progress) from Belagavi, India.
+
+##Things I code with:
+
