@@ -23,6 +23,7 @@ I am Abhishek B H, a Computer Science Undergrad (in progress) from Belagavi, Ind
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+  
 </p>
 
 ### Top Repositories
@@ -37,3 +38,4 @@ I am Abhishek B H, a Computer Science Undergrad (in progress) from Belagavi, Ind
 <a href="https://github.com/Abhi010bh/ProjectShuchi.git">
   Shuchi: Waste Management System (MERN Stack) : in progress
 </a>
+  <img alt="Nodejs" src="[https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white](https://media.licdn.com/dms/image/D5622AQHicCI7pgQuQg/feedshare-shrink_800/0/1693578695927?e=1715212800&v=beta&t=1iMlK5VTfORWVjRfn_0qwPdfe9HyM27s3RVpoqshbwM)" />
